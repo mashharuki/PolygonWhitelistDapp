@@ -1,0 +1,2 @@
+# PolygonWhitelistDapp
+UNCHAINの学習コンテンツ PolygonWhitelistDapp開発用のリポジトリです。

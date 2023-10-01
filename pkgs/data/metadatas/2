@@ -1,0 +1,9 @@
+{
+  "name": "Silver Shield",
+  "description": "To show our gratitude to ChainIDE users, we're offering this mythical Silver Shield as a gift.",
+  "image": "https://bafybeigobn2ot5rprk6rllgitu7ccgxwuq4ajggzfeqpabsf3uxo3d4ulu.ipfs.nftstorage.link/ShilverShield.png",
+  "attributes": [{
+      "trait_type": "Rarity",
+      "value": "Mythical"
+  }]
+}

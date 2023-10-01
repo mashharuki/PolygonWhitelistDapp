@@ -1,0 +1,22 @@
+{
+  "name": "PolygonWhitelistDapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mashharuki/PolygonWhitelistDapp.git",
+  "author": "mashharuki",
+  "license": "MIT",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "pkgs/*"
+    ]
+  },
+  "scripts": {
+    "backend": "yarn workspace backend",
+    "frontend": "yarn workspace frontend",
+    "backend:test": "yarn backend test",
+    "backend:compile": "yarn backend compile",
+    "frontend:dev": "yarn frontend dev",
+    "frontend:build": "yarn frontend build"
+  }
+}

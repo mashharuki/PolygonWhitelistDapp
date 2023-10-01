@@ -1,0 +1,9 @@
+{
+  "name": "Bronze Shield",
+  "description": "As a token of appreciation, ChainIDE is gifting its users with this rare Bronze Shield.",
+  "image": "https://bafybeigobn2ot5rprk6rllgitu7ccgxwuq4ajggzfeqpabsf3uxo3d4ulu.ipfs.nftstorage.link/BronzeShield.png",
+  "attributes": [{
+      "trait_type": "Rarity",
+      "value": "Rare"
+  }]
+}

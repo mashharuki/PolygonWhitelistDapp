@@ -2,9 +2,9 @@
 
 UNCHAIN の学習コンテンツ PolygonWhitelistDapp 開発用のリポジトリです。
 
-### baseURI
+### メタデータの baseURI
 
-[ipfs://bafybeigobn2ot5rprk6rllgitu7ccgxwuq4ajggzfeqpabsf3uxo3d4ulu](ipfs://bafybeigobn2ot5rprk6rllgitu7ccgxwuq4ajggzfeqpabsf3uxo3d4ulu)
+[https://bafybeih6yeuzzktdi3htczpbxcevo3azqmouqqwwtumitgesjtbahihbly.ipfs.nftstorage.link/](https://bafybeih6yeuzzktdi3htczpbxcevo3azqmouqqwwtumitgesjtbahihbly.ipfs.nftstorage.link/)
 
 ### デプロイした記録
 
@@ -14,7 +14,13 @@ UNCHAIN の学習コンテンツ PolygonWhitelistDapp 開発用のリポジト�
 
 - Shield コントラクト
 
-  [0x9987f02c5afaa19acd07c2d9d3b440518e3280d1](https://mumbai.polygonscan.com/address/0x9987f02c5afaa19acd07c2d9d3b440518e3280d1)
+  [0x54eC0dE2151529000016Cf959bca14a68439eD54](https://mumbai.polygonscan.com/address/0x54eC0dE2151529000016Cf959bca14a68439eD54)
+
+### ルートディレクトリからモジュールを追加する方法
+
+```bash
+yarn workspace backend add --dev hardhat@^2.14.0
+```
 
 ### 参考文献
 
